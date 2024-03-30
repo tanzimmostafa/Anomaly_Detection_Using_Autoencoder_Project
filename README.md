@@ -1,6 +1,6 @@
 # Anomaly_Detection_Using_Autoencoder_Project
 
-This project is part of my midterm for the course CS6699: "Advanced AI".
+This project is part of my midterm for the course CS6699: "Advanced AI", at Idaho State University.
 
 The goal of this project is to design, implement, and evaluate an autoencoder for the purpose of anomaly detection on the Credit Card Fraud Detection dataset, available in Kaggle. 
 
